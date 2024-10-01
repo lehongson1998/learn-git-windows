@@ -1,6 +1,8 @@
-On branch quick-fix
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	file2.txt
-
-nothing added to commit but untracked files present (use "git add" to track)
+total 2
+-rw-r--r-- 1 EAD+sle29 4096 55 Oct  1 09:37 2
+-rw-r--r-- 1 EAD+sle29 4096  0 Oct  1 09:37 file2.txt
+-rw-r--r-- 1 EAD+sle29 4096 26 Oct  1 08:57 newfile.txt
+total 3
+-rw-r--r-- 1 EAD+sle29 4096  55 Oct  1 09:37 2
+-rw-r--r-- 1 EAD+sle29 4096 164 Oct  1 09:38 file2.txt
+-rw-r--r-- 1 EAD+sle29 4096  26 Oct  1 08:57 newfile.txt
